@@ -1,0 +1,435 @@
+% --- LaTeX CV Template - S. Venkatraman ---
+
+% Set document class and font size
+\documentclass[letterpaper, 11pt]{article}
+\usepackage[utf8]{inputenc}
+% \usepackage[russian]{babel}  % Включаем пакет для поддержки русского языка
+
+% Package imports
+\usepackage{setspace, longtable, graphicx, hyphenat, hyperref, fancyhdr, ifthen, enumitem, amsmath, setspace}
+
+% --- Page layout settings ---
+
+% Set page margins
+\usepackage[left=1in, right=1in, bottom=0.7in, top=0.7in]{geometry}
+
+% Set line spacing
+\renewcommand{\baselinestretch}{1.15}
+
+% --- Page formatting ---
+
+% Set link colors
+\usepackage[dvipsnames]{xcolor}
+\hypersetup{colorlinks=true, linkcolor=OliveGreen, urlcolor=OliveGreen}
+
+% Set font to Libertine, including math support
+\usepackage{libertine}
+\usepackage[libertine]{newtxmath}
+
+% Remove page numbering
+\pagenumbering{gobble}
+
+% --- Document starts here ---
+
+\begin{document}
+	
+	% Name and date of last update to this document
+	\noindent{\Huge{Georgiy Sapunov}
+		\hfill{\it\footnotesize Updated \today}}
+	
+	% --- Contact information and other items ---
+	
+	\vspace{0.5cm}
+	\begin{center}
+		\begin{tabular}{lll}
+			% Line 1: Email, GitHub, office location
+			\textbf{Email}: sapunovgeorgiy@gmail.com      &
+			%\hspace{0.55in} \textbf{GitHub}: //github-username    &
+			%\hspace{0.4in} 	\textbf{Office}: Your Building 101 \\
+			
+			% Line 2: Phone number, LinkedIn, citizenship
+			\textbf{Phone}: +7\,(952)\,391-3325
+			%\hspace{0.55in} \textbf{LinkedIn}: //LinkedIn-URL   &
+			\hspace{0.4in} \textbf{Citizenship}: Russia
+		\end{tabular}
+	\end{center}
+	
+	% --- Start the two-column table storing the main content ---
+	
+	% Set spacing between columns
+	\setlength{\tabcolsep}{8pt}
+	
+	% Set the width of each column
+	\begin{longtable}{p{1.3in}p{4.8in}}
+		
+		% --- Section: Research interests ---
+		
+		\nohyphens{\color{OliveGreen}{Research interests}}
+		& Molecular beam epitaxy, III-V semiconductors on silicon, nanowires,
+		nanophotonics, photovoltaics, structure characterisation\\
+		& \\
+		
+		% --- Section: Education ---
+		
+		\color{OliveGreen}{Education}
+		& \textbf{Saint-Petersburg Academic University} \hfill Saint-Petersburg, Russia \\
+		& PhD in Physics of Condensed Matter \hfill sep 2016\,--\,jul 2021 \\
+        & Thesis: "Molecular Beam Epitaxy of Gallium Nitride, Gallium Arsenide,
+        and Gallium Phosphide Nanostructures on Silicon" \\
+		& Mentors: Bolshakov~A,\,D.\\
+		& \\
+		
+		& \textbf{Saint-Petersburg Academic University} \hfill Saint-Petersburg, Russia \\
+		& MS in Electronics and Nanoelectronics \hfill sep 2014\,--\,aug 2016\\
+		& Mentors: Bolshakov~A,\,D. \\
+		& \\
+		
+		& \textbf{Tambov State Technical University} \hfill Tambov, Russia\\
+		& BS in Nanotechnology, \hfill sep 2010\,--\,aug 2014\\
+		& \\
+		
+		% --- Uncomment the next few lines if you want to include some courses ---
+		%& \textbf{Selected coursework}
+		%\begin{itemize}[noitemsep,leftmargin=*]
+		%\item \underline{Relevant subject 1}: Course 1, Course 2, Course 3, Course 4
+		%\item \underline{Relevant subject 2}: Course 1, Course 2, Course 3, Course 4
+		%\end{itemize} \\
+		
+		% --- Section: Awards, scholarships, etc. ---
+		% --- Note: section title is spread over two lines ---
+		
+		{\color{OliveGreen}{Honors and scholarships}}
+        & Grant for young scientists of universities and academic institutions
+        located in Saint-Petersburg (Committee on Science and Higher Education)
+        \hfill 2020\\
+		& \\
+        & Scholarship of the Government of the Russian Federation in priority
+        areas of modernization and technological development of the Russian
+        economy (Government of the Russian Federation) \hfill 2019\\
+		& \\
+        & Grant for university students located in Saint-Petersburg, graduate
+        students of universities, industry and academic institutions located in
+        Saint-Petersburg (Committee on Science and Higher Education)\hfill 2018
+        \\
+		& \\
+		
+		%Skills
+		
+		{\color{OliveGreen}{Skills}}
+		& \textbf{Molecular beam epitaxy} \\
+        & GaAs, GaP and GaP(NAs) planar growth, GaN, GaAs, GaP nanowire growth
+        on silicon substrate using a molecular-beam epitaxy system Veeco
+        GEN-III \\
+		& \\
+		& \textbf{Structure characterisation} \\
+        & Reflection high-energy electron diffraction, Atomic Force Microscopy,
+        Raman and Photoluminescence spectroscopy. \\
+		& \\
+        & Experience in Scanning and Transmission electron microscopy,
+        Secondary ion mass spectrometry and X-ray  diffraction data
+        interpretation. \\
+		& \\
+		& \textbf{Data analysys and visualisation} \\
+        & Python (NumPy, Pandas, Scikit-learn, Keras, Tensorflow, Matplotlib),
+        Machine learning, Gwyddion, Origin. \\
+        \\
+		& \textbf{Computer graphics} \\
+        & Blender, Gimp, Inkscape. \\ 
+		& \\
+		& \textbf{Languages} \\
+        & Russian (native), English (upper-intermediate), French
+        (intermediate), Japanese (intermediate) \\
+		& \\
+		
+		% --- Section: Research experience ---
+		
+		\nohyphens{\color{OliveGreen}{Research experience}}
+        & \textbf{Saint-Petersburg Academic University, Laboratory of Renewable
+        Energy Sources} \\
+		& Mentors: Bolshakov~A.\,D. \hfill sep 2014\,--\,aug 2021 \\
+		\begin{itemize}
+            \item Study of GaN nanowire formation, morphology optimisation for
+                device implementation.
+            \item Study of III-V nanostructure formation on silicon substrates,
+                mainly GaP nanowires with GaP(NAs) heterojunctions.
+            \item GaP(NAs) growth on silicon and sapphire, developing of III-V
+                solar cells on silicon substrates.
+            \item Design, growth and heterostructure optimization for device
+                implementation, such as solar cells with carbon nanotubes as a
+                top contact and flexible LED based on GaP(AsN) nanowires.
+		\end{itemize}
+		
+		h-index: 8 \\
+		& \\
+		
+		% --- Section: Talks and tutorials ---
+		
+		%{\color{OliveGreen}{Talks and tutorials}}
+		%& \textbf{Title of your most recent presentation} \hfill Month Year \\
+		%& Name of conference, workshop, seminar, venue, etc., or a description \\
+		%& \\
+		%
+		%& \textbf{Title of your second most recent presentation} \hfill Month Year \\
+		%& Name of conference, workshop, seminar, venue, etc., or a description \\
+		%& \\
+		
+		% --- Section: Various skills (programming, software, languages, etc.) ---
+		
+		% --- Section: Publications ---
+		\nohyphens{\color{OliveGreen}{Q1 Publications}}
+        & \textbf{Work function tailoring in gallium phosphide nanowires} \\
+        & Sharov~V., Alekseev~P., Fedorov~V., Nestoklon~M., Ankudinov~A.,
+        Kirilenko~D., Sapunov~G., Koval~O., Cirlin~G., Bolshakov~A., Mukhin~I.
+        \\
+		& \textit{Applied Surface Science, 2021.}\\
+		& \\
+
+        & \textbf{Tailoring Morphology and Vertical Yield of Self-Catalyzed GaP
+        Nanowires on Template-Free Si Substrates} \\
+        & Fedorov~V.\,V., Berdnikov~Y., Sibirev~N.\,V., Bolshakov~A.\,D.,
+        Fedina~S.\,V., Sapunov~G.\,A., Dvoretckaia~L.\,N., Cirlin~G.,
+        Kirilenko~D.\,A., Tchernycheva~M., Mukhin~I.\,S. \\
+		& \textit{Nanomaterials, 2021.}\\
+		& \\
+
+        & \textbf{XRD Evaluation of Wurtzite Phase in MBE Grown Self-Catalyzed
+        GaP Nanowires} \\
+        & Koval~O.\,Y., Fedorov~V.\,V., Bolshakov~A.\,D., Eliseev~I.\,E.,
+        Fedina~S.\,V., Sapunov~G.\,A., Udovenko~S.\,A., Dvoretckaia~L.\,N.,
+        Kirilenko~D.\,A., Burkovsky R.G., Mukhin I.S. \\
+		& \textit{Nanomaterials, 2021.}\\
+		& \\
+
+        & \textbf{Single GaN Nanowires for Extremely High Current Commutation}
+        \\
+        & Shugurov~K., Mozharov~A., Sapunov~G., Fedorov~V., Tchernycheva~M.,
+        Mukhin~I. \\
+		& \textit{Physica Status Solidi -- Rapid Research Letters, 2021.}\\
+		& \\
+
+        & \textbf{Structural and optical properties of self-catalyzed axially
+        heterostructured GaPN/GaP nanowires embedded into a flexible silicone
+        membrane} \\
+        & Koval~O.\,Y., Fedorov~V.\,V., Bolshakov~A.\,D., Fedina~S.\,V.,
+        Kochetkov~F.\,M., Neplokh~V., Sapunov~G.\,A., Dvoretckaia~L.\,N.,
+        Kirilenko~D.\,A., Shtrom~I.\,V. and Islamova~R.\,M. \\
+		& \textit{Nanomaterials, 2020.}\\
+		& \\
+		
+        & \textbf{Structural and optical characterization of dilute phosphide
+        planar heterostructures with high nitrogen content on silicon} \\
+        & Koval~O.\,Y., Fedorov~V.\,V., Kryzhanovskaya~N.\,V., Sapunov~G.\,A.,
+        Kirilenko~D.\,A., Pirogov~E.\,V., Filosofov~N.\,G., Serov~A.\,Y.,
+        Shtrom~I.\,V., Bolshakov~A.\,D. and Mukhin~I.\,S. \\
+		& \textit{CrystEngComm, 2020.}\\
+		& \\
+		
+        & \textbf{Hydrogen passivation of the n-GaN nanowire/p-Si
+        heterointerface} \\
+        & Shugurov~K.\,Yu., Mozharov~A.\,M., Bolshakov~A.\,D., Fedorov~V.\,V.,
+        Sapunov~G.\,A., Shtrom~I.\,V., Uvarov~A.\,V., Kudryashov~D.\,A.,
+        Baranov~A.\,I., Mikhailovskii~V.\,Yu. and others \\
+		& \textit{Nanomaterials, 2020.}\\
+		& \\
+		
+        & \textbf{Synthesis and optical characterization of GaAs epitaxial
+        nanoparticles on silicon} \\
+        & Sapunov~G.\,A., Fedorov~V.\,V., Koval~O.\,Y., Sharov~V.\,A.,
+        Dvoretckaia~L.\,N., Mukhin~I.\,S. and Bolshakov~A.\,D. \\
+		& \textit{Crystal Growth \& Design, 2019.}\\
+		& \\
+		
+        & \textbf{Effects of the surface preparation and buffer layer on the
+        morphology, electronic and optical properties of the GaN nanowires on
+        Si} \\ & Bolshakov~A.\,D., Fedorov~V.\,V., Shugurov~K.\,Yu., Mozharov~A.\,M.,
+        Sapunov~G.\,A., Shtrom~I.\,V., Mukhin M.\,S., Uvarov~A.\,V.,
+        Cirlin~G.\,E. and Mukhin~I.\,S. \\
+		& \textit{Nanotechnology, 2019.}\\
+		& \\
+		
+        & \textbf{Effective suppression of antiphase domains in GaP (N)/GaP
+        heterostructures on Si(001)} \\
+        & Bolshakov~A.\,D., Fedorov~V.\,V., Koval~O.\,Y., Sapunov~G.\,A.,
+        Sobolev~M.\,S., Pirogov~E.\,V., Kirilenko~D.\,A., Mozharov~A.\,M. and
+        Mukhin~I.\,S. \\
+		& \textit{Crystal Growth \& Design, 2019.}\\
+		& \\
+		
+        & \textbf{Droplet epitaxy mediated growth of GaN nanostructures on
+        Si(111) via plasma-assisted molecular beam epitaxy} \\
+        & Fedorov~V.\,V., Bolshakov~A.\,D., Kirilenko~D.\,A., Mozharov~A.\,M.,
+        Sitnikova~A.\,A., Sapunov~G.\,A., Dvoretckaia~L.\,N., Shtrom~I.\,V.,
+        Cirlin~G.\,E. and Mukhin~I.\,S. \\
+		& \textit{CrystEngComm, 2018.}\\
+		& \\
+
+        & \textbf{Dopant-stimulated growth of GaN nanotube-like nanostructures
+        on Si(111) by molecular beam epitaxy} \\
+        & Bolshakov~A.\,D., Mozharov~A.\,M., Sapunov~G.\,A., Shtrom~I.\,V.,
+        Sibirev~N.\,V., Fedorov~V.\,V., Ubyivovk~E.\,V., Tchernycheva~M.,
+        Cirlin~G.\,E. and Mukhin~I.\,S. \\
+		& \textit{Beilstein journal of nanotechnology, 2018.}\\
+		& \\
+
+	    % Q2 Publications	
+		\nohyphens{\color{OliveGreen}{Q2 Publications}}
+		& \textbf{Theoretical modeling of the self-catalyzed nanowire growth: nucleation- and adsorption-limited regimes} \\
+		& Bolshakov~A.\,D., Mozharov~A.\,M., Sapunov~G.\,A., Fedorov~V.\,V., Dvoretckaia~L.\,N. and Mukhin~I.\,S. \\
+		& \textit{Materials Research Express, 2017.}\\
+		& \\
+
+	    % Q3 Publications	
+		\nohyphens{\color{OliveGreen}{Q3 Publications}}
+		& \textbf{Microlens-enhanced substrate patterning and MBE growth of GaP nanowires} \\
+		& Bolshakov~A.\,D., Dvoretckaia~L.\,N., Fedorov~V.\,V., Sapunov~G.\,A., Mozharov~A.\,M., Shugurov~K.\,Yu., Shkoldin~V.\,A., Mukhin~M.\,S., Cirlin~G.\,E. and Mukhin~I.\,S. \\
+		& \textit{Semiconductors, 2018.}\\
+		& \\
+
+		& \textbf{Self-catalyzed MBE-grown GaP nanowires on Si(111): V/III ratio effects on the morphology and crystal phase switching} \\
+		& Fedorov~V.\,V., Bolshakov~A.\,D., Dvoretckaia~L.\,N., Sapunov~G.\,A., Kirilenko~D.\,A., Mozharov~A.\,M., Shugurov~K.\,Yu., Shkoldin~V.\,A., Cirlin~G.\,E. and Mukhin~I.\,S. \\
+		& \textit{Semiconductors, 2018.}\\
+		& \\
+		
+		& \textbf{Effect of the conductive channel cut-off on operation of n\textsuperscript{+}--n--n\textsuperscript{+} GaN NW-based Gunn diode} \\
+		& Mozharov~A.\,M., Vasiliev~A.\,A., Komissarenko~F.\,E., Bolshakov~A.\,D., Sapunov~G.\,A., Fedorov~V.\,V., Cirlin~G.\,E. and Mukhin~I.\,S. \\
+		& \textit{Semiconductors, 2018.}\\
+		& \\
+
+		& \textbf{Core-shell III-nitride nanowire heterostructure: negative differential resistance and device application potential} \\
+		& Mozharov~A.\,M., Vasiliev~A.\,A., Bolshakov~A.\,D., Sapunov~G.\,A., Fedorov~V.\,V., Cirlin~G.\,E. and Mukhin~I.\,S. \\
+		& \textit{Semiconductors, 2018.}\\
+		& \\
+
+	    % Q4 Publications	
+		\nohyphens{\color{OliveGreen}{Q4 Publications}}
+        & \textbf{Self-consistent modeling of MBE self-catalyzed GaAs nanowire
+        growth} \\
+        & Fedina~S.\,V., Koryakin~A.\,A., Fedorov~V.\,V., Sapunov~G.\,A.,
+        Mukhin~I.\,S. \\
+		& \textit{Journal of Physics: Conference Series, 2021.}\\
+		& \\
+
+        & \textbf{Processes of formation of epitaxial arrays of self-catalytic
+        GaP nanowires on Si (111)} \\
+        & Fedina~S.\,V., Fedorov~V.\,V., Berdnikov~Y.\,S., Sapunov~G.\,A.,
+        Mukhin~I.\,S. \\
+		& \textit{Journal of Physics: Conference Series, 2021.}\\
+		& \\
+		
+        & \textbf{Epitaxial synthesis of single-domain gallium phosphide on
+        silicon} \\
+        & Sapunov~G.\,A., Koval~O.\,Yu., Fedorov~V.\,V. and Bolshakov~A.\,D. \\
+		& \textit{Journal of Physics: Conference Series, 2020.}\\
+		& \\
+		
+        & \textbf{Controllable antiphase domain density in dilute nitride
+        GaPN/GaP heterostructures on silicon} \\
+        & Fedorov~V.\,V., Bolshakov~A.\,D., Koval~O.\,Yu., Sapunov~G.\,A.,
+        Sobolev~M,\,S., Pirogov~E.\,V., Kirilenko~D.\,A., Mozharov~A.\,M.,
+        Mozharov~A.\,M. and Mukhin~I.\,S. \\
+		& \textit{Journal of Physics: Conference Series, 2020.}\\
+		& \\
+		
+        & \textbf{Synthesis and characterization of GaPN/GaP heterostructures
+        grown on silicon (001)} \\
+        & Koval~O.\,Yu., Sapunov~G.\,A. and Fedorov~V.\,V. \\
+		& \textit{Journal of Physics: Conference Series, 2020.}\\
+		& \\
+		
+        & \textbf{Conductive AFM study of the electronic properties of
+        individual epitaxial GaN nanowires} \\
+        & Sharov~V., Bolshakov~A.\,D., Fedorov~V.\,V., Shugurov~K.\,Yu.,
+        Mozharov~A.\,M., Sapunov~G.\,A. and Mukhin~I.\,S. \\
+		& \textit{IOP Conference Series: Materials Science and Engineering, 2019.}\\
+		& \\
+		
+        & \textbf{Growth and optical properties of GaPN/GaP heterostructure
+        nanowire array} \\
+        & Koval~O.\,Yu., Sapunov~G.\,A., Fedorov~V.\,V. and Mukhin~I.\,S. \\
+		& \textit{Journal of Physics: Conference Series, 2019.}\\
+		& \\
+		
+        & \textbf{Synthesis and optical properties study of GaAs epitaxial
+        nanoparticles on silicon} \\
+        & Sapunov~G.\,A., Koval~O.\,Yu., Sharov~V., Dvoretckaia~L.\,N.,
+        Mitin~D.\, M. and Bolshakov~A.\,D. \\
+		& \textit{Journal of Physics: Conference Series, 2019.}\\
+		& \\
+		
+        & \textbf{GaN-nanowire/Si solar cell: numerical modeling, fabrication
+        and characterization} \\
+        & Shugurov~K.\,Yu., Mozharov~A.\,M., Sapunov~G.\,A., Fedorov~V.\,V.,
+        Bolshakov~A.\,D., Cirlin~G.\,E. and Mukhin~I.\,S. \\
+		& \textit{Journal of Physics: Conference Series, 2019.}\\
+		& \\
+		
+        & \textbf{Influence of hydrogen plasma passivation on electrical and
+        spectral characteristics of GaN nanowires/Si solar cells} \\
+        & Shugurov~K.\,Yu., Mozharov~A.\,M., Fedorov~V.\,V., Bolshakov~A.\,D.,
+        Sapunov~G.\,A. and Mukhin~I.\,S. \\
+		& \textit{Journal of Physics: Conference Series, 2018.}\\
+		& \\
+		
+        & \textbf{GaN nanostructures grown on Si(111) by PA-MBE via droplet
+        epitaxy: SEM and HRTEM study} \\
+        & Sapunov~G.\,A., Fedorov~V.\,V., Bolshakov~A.\,D., Mozharov~A.\,M.,
+        Dvoretckaia~L.\,N., Kirilenko~D.\,A., Sitnikova~A.\,A. and
+        Mukhin~I.\,S. \\
+		& \textit{Journal of Physics: Conference Series, 2018.}\\
+		& \\
+		
+        & \textbf{GaN nanowires on Si(111) substrates via molecular beam
+        epitaxy: growth, electronic and optical properties} \\
+        & Bolshakov~A.\,D., Fedorov~V.\,V., Sapunov~G.\,A., Mozharov~A.\,M.,
+        Dvoretckaia~L.\,N., Shugurov~K.\,Yu., Shkoldin~V, Shtrom~I.\,V.,
+        Mukhin~M.\,S., Cirlin~G.\,E. and Mukhin~I.\,S. \\
+		& \textit{Journal of Physics: Conference Series, 2018.}\\
+		& \\
+		
+        & \textbf{Epitaxial GaN nanotripods: morphology and crystal structure}
+        \\
+        & Sapunov~G.\,A., Bolshakov~A.\,D., Fedorov~V.\,V.,  Mozharov~A.\,M.,
+        Kirilenko~D.\,A., Sitnikova~A.\,A. and Mukhin~I.\,S. \\
+		& \textit{Journal of Physics: Conference Series, 2018.}\\
+		& \\
+		
+        & \textbf{Influence of interface layer preparation on the electrical
+        and spectral characteristics of GaN/Si solar cells} \\
+        & Shugurov~K.\,Yu., Mozharov~A.\,M., Sapunov~G.\,A., Fedorov~V.\,V.,
+        Bolshakov~A.\,D. and Mukhin~I.\,S. \\
+		& \textit{Journal of Physics: Conference Series, 2018.}\\
+		& \\
+		
+        & \textbf{Effect of Ga seeding layer on formation of epitaxial Y-shaped
+        GaN nanoparticles on silicon} \\
+        & Fedorov~V.\,V., Bolshakov~A.\,D., Mozharov~A.\,M., Sapunov~G.\,A.,
+        Shtrom~I.\,V., Kirilenko~D.\,A., Sitnikova~A.\,A. and Mukhin~I.\,S. \\
+        & \textit{Journal of Physics: Conference Series, 2017.}\\
+		& \\
+
+        & \textbf{Modeling the semiconductor devices with negative differential
+        resistance based on nitride nanowires} \\
+        & Mozharov~A.\,M., Komissarenko~F.\,E., Bolshakov~A.\,D.,
+        Fedorov~V.\,V., Sapunov~G.\,A., Cirlin~G.\,E. and Mukhin~I.\,S. \\
+		& \textit{Journal of Physics: Conference Series, 2017.}\\
+		& \\
+
+        & \textbf{Synthesis of GaN nanowires on Si (111) substrates by
+        molecular beam epitaxy} \\
+        & Bolshakov~A.\,D., Sapunov~G.\,A., Mozharov~A.\,M., Cirlin~G.\,E.,
+        Shtrom~I.\,V., Mukhin~I.\,S. \\
+		& \textit{Journal of Physics: Conference Series, 2016.}\\
+		& \\
+
+		{\color{OliveGreen}{Patent}}
+        & Growth of GaN nanotubes activated by doping with Si on Si substrates
+        with a thin AlN buffer layer \hfill 2020\\
+		
+		% --- Section: Other interests/hobbies ---
+		
+		%\nohyphens{\color{OliveGreen}{Other interests}} & Some of your hobbies etc.\\
+		
+		% --- End of CV! ---
+		
+	\end{longtable}
+\end{document}
