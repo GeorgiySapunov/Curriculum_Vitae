@@ -1,0 +1,245 @@
+## 2022
+
+9rd International School and Conference on Optoelectronics, Photonics, Engineering and Nanostructures “Saint Petersburg OPEN 2022”
+Saint Petersburg, Russia
+HSE University
+from 24.05.2022 to 27.05.2022
+Microwave Schottky diodes based on single GaN nanowires
+Shugurov K. Yu., Mozharov A. M., Fedorov V. V., Sapunov G. A., Mukhin I. S.
+Book of abstracts 2021, 639—640
+
+## 2021
+
+International conference PhysicA.SPb/2021
+Saint Petersburg, Russia
+Ioffe Institute
+from 18.10.2021 to 22.10.2021
+Focusing of diameters in ensembles of gallium phosphide nanowires during epitaxial growth on silicon substrates without lithographic preparation
+Berdnikov Y., Sibirev N. V., Fedorov V. V., Fedina S. V., Sapunov G. A., Bolshakov A. D., Mukhin I. S. 
+Conference Theses PhysicA.SPb/2021, 200—201
+
+International conference PhysicA.SPb/2021
+Saint Petersburg, Russia
+Ioffe Institute
+from 18.10.2021 to 22.10.2021
+Molecular beam epitaxy of arrays of self-catalytic GaP nanowires with a given morphology and high surface density on Si(111) substrates
+Fedina S. V., Sapunov G. A., Berdnikov Y. S., Fedorov V. V., Mukhin I. S.
+Conference Theses PhysicA.SPb/2021, 219—220
+
+8rd International School and Conference on Optoelectronics, Photonics, Engineering and Nanostructures “Saint Petersburg OPEN 2021”
+Saint Petersburg, Russia
+HSE University
+from 25.05.2021 to 28.05.2021
+Self-consistent modeling of MBE self-catalyzed GaAs nanowire growth
+S.V. Fedina, A.A. Koryakin, V.V. Fedorov, G.A. Sapunov, Mukhin I. S.
+Book of abstracts 2021, 124—125
+
+8rd International School and Conference on Optoelectronics, Photonics, Engineering and Nanostructures “Saint Petersburg OPEN 2021”
+Saint Petersburg, Russia
+HSE University
+from 25.05.2021 to 28.05.2021
+Single GaN nanowires for high current commutation devices
+Shugurov K. Yu., Mozharov A. M., Fedorov V. V., Sapunov G. A., Mukhin I. S.
+Book of abstracts 2021, 502—503
+
+## 2020
+
+International conference PhysicA.SPb/2020
+Saint Petersburg, Russia
+Ioffe Institute
+from 19.10.2020 to 23.10.2020
+Optical properties and epitaxial formation of GaP(NAs) photovoltaic heterostructures on Si
+Sapunov G. A., Koval O. Y., Fedorov V. V., Bolshakov A. D. 
+Conference Theses PhysicA.SPb/2020
+
+International conference PhysicA.SPb/2020
+Saint Petersburg, Russia
+Ioffe Institute
+from 19.10.2020 to 23.10.2020
+Optical properties of GaPN arrays in a flexible polymer matrix
+Koval O. Y., Sapunov G. A., Fedorov V. V.
+Conference Theses PhysicA.SPb/2020, 161—162
+
+International conference PhysicA.SPb/2020
+Saint Petersburg, Russia
+Ioffe Institute
+from 19.10.2020 to 23.10.2020
+Formation of self-catalytic GaP nanowires on Si(111)
+Fedina S. V., Sapunov G. A., Fedorov V. V.
+Conference Theses PhysicA.SPb/2020, 171—172
+
+7rd International School and Conference on Optoelectronics, Photonics, Engineering and Nanostructures “Saint Petersburg OPEN 2020”
+Saint Petersburg, Russia
+Saint Petersburg Academic University
+from 26.04.2020 to 30.04.2020
+Numerical calculation of GaN NW / Si Schottky diode operation
+Shugurov K. Yu., Mozharov A. M., Fedorov V. V., Bolshakov A. D., Sapunov G. A., Mukhin I. S.
+Book of abstracts 2020, 466—467
+
+The 54th School on Condensed State Physics
+Sestroretsk, Saint-Petersburg, Russia
+Kurchatov Institute
+from 16.03.2020 to 21.03.2020
+Synthesis and optical characterization of GaAs epitaxial nanoparticles on silicon
+Sapunov G. A., Bolshakov A. D., Fedorov V. V.
+Book of abstracts, 118
+
+The 54th School on Condensed State Physics
+Sestroretsk, Saint-Petersburg, Russia
+Kurchatov Institute
+from 16.03.2020 to 21.03.2020
+Formation of epitaxial arrays of self-catalytic filamentous nanocrystals Gan on Si (111)
+Fedina S. V., Sapunov G. A., Fedorov V. V.
+Book of abstracts, 132
+
+## 2019
+
+International conference PhysicA.SPb/2019
+Saint Petersburg, Russia
+Ioffe Institute
+from 22.10.2019 to 24.10.2019
+Synthesis and optical characterization of GaAs epitaxial nanoparticles on silicon
+Sapunov G. A., Bolshakov A. D., Fedorov V. V., Koval O. Y., Dvoreckaia L. N., Mukhin I. S.
+Conference Theses PhysicA.SPb/2019, 174—175
+
+International conference PhysicA.SPb/2019
+Saint Petersburg, Russia
+Ioffe Institute
+from 22.10.2019 to 24.10.2019
+A mask for controlled growth of semiconductor compounds of combined dimension
+Dvoreckaia L. N., Mozharov A. M., Fedorov V. V., Sapunov G. A., Bolshakov A. D., Mukhin I. S.
+Conference Theses PhysicA.SPb/2019, 191—192
+
+International conference PhysicA.SPb/2019
+Saint Petersburg, Russia
+Ioffe Institute
+from 22.10.2019 to 24.10.2019
+Modes of hydrogen passivation of the heterointerface GaN nanowires on Si
+Shugurov K. Yu., Mozharov A. M., Sapunov G. A., Fedorov V. V., Bolshakov A. D., Mukhin I. S., Cirlin G. E.
+Conference Theses PhysicA.SPb/2019, 341—342
+
+International conference PhysicA.SPb/2019
+Saint Petersburg, Russia
+Ioffe Institute
+from 22.10.2019 to 24.10.2019
+Effects of volumetric instability in single GaN nanowires in strong electric fields
+Mozharov A. M., Shugurov K. Yu., Fedorov V. V., Sapunov G. A., Bolshakov A. D., Mukhin I. S.
+Conference Theses PhysicA.SPb/2019, 372
+
+International conference PhysicA.SPb/2019
+Saint Petersburg, Russia
+Ioffe Institute
+from 22.10.2019 to 24.10.2019
+Hybrid solar cells based on GaAs and carbon nanotubes
+Mitin D. M., Mozharov A. M., Sapunov G. A., Neplokh V. V., Fedorov V. V., Bolshakov A. D., Rajanna P., Nasibulin A. G., Mukhin I. S.
+Conference Theses PhysicA.SPb/2019, 406—407
+
+Conference on Nanoelectronics, Nanophotonics and Nonlinear Physics
+Saratov, Russia
+Kotelnikov Institute of Radioengineering and Electronics
+from 17.09.2019 to 19.09.2019
+The use of SiO2 and TiO2 as mask materials for selective epitaxy
+Vasiliev A. A., Dvoretskaya L. N., Bolshakov A. D., Mozharov A. M., Fedorov V. V., Sapunov G. A.
+Proceedings of the XIV All-Russian Conference of Young Scientists, 39—40
+
+International winter school on semiconductor physics 2019
+Zelenogorsk, Saint Petersburg, Russia
+Ioffe Institute
+from 28.02.2019 to 04.03.2019
+Synthesis of epitaxial heterostrucrures based on Ga(1-x)N(x) solid alloy on silicon for photovoltaics
+Sapunov G. A.
+Scientific reports of young scientists, 52—53
+
+International winter school on semiconductor physics 2020
+Zelenogorsk, Saint Petersburg, Russia
+Ioffe Institute
+from 27.02.2019 to 02.03.2019
+Synthesis and optical characterization of GaAs epitaxial nanoparticles on silicon
+Sapunov G. A.
+Scientific reports of young scientists, 51—52
+
+## 2018
+
+Conference on Renewable Energy Sources
+Moscow, Russia
+M. V. Lomonosov Moscow State University
+from 03.12.2018 to 06.12.2018
+Formation of epitaxial heterostructures based on nitrogen-containing solid solutions GaP(1-x)N(x) on silicons for photovoltaics
+Sapunov G. A., Bolshakov A. D., Fedorov V. V., Koval O. Yu., Sobolev M. S., Pirogov E. V., Dvoretskaya L. N., Mozharov A. M., Muhin I. S.
+Materials of the All-Russian Scientific Conference with international participation and the XI Scientific Youth School, 173—180
+
+Conference on Renewable Energy Sources
+Moscow, Russia
+M. V. Lomonosov Moscow State University
+from 03.12.2018 to 06.12.2018
+Investigation of semiconductor photovoltatic heterostructures GaPN/GaP/Si by methods of optic spectroscopy
+Koval O. Yu., Bolshakov A. D., Fedorov V. V., Sapunov G. A., Sobolev M. S., Muhin I. S.
+Materials of the All-Russian Scientific Conference with international participation and the XI Scientific Youth School, 80—87
+
+5rd International School and Conference on Optoelectronics, Photonics, Engineering and Nanostructures “Saint Petersburg OPEN 2018”
+Saint Petersburg, Russia
+Saint Petersburg Academic University
+from 02.04.2018 to 05.04.2018
+GaN nanostructures grown on Si(111) by PA-MBE via droplet epitaxy: SEM and HRTEM study
+Sapunov G. A., Fedorov V. V., Bolshakov A. D., Mozharov A. M., Dvoreckaia L. N., Kirilenko D. A., Sitnikova A. A., Mukhin I. S.
+Book of abstracts 2018, 105—106
+
+5rd International School and Conference on Optoelectronics, Photonics, Engineering and Nanostructures “Saint Petersburg OPEN 2018”
+Saint Petersburg, Russia
+Saint Petersburg Academic University
+from 02.04.2018 to 05.04.2018
+GaN nanostructures grown on Si(111) by PA-MBE via droplet epitaxy: SEM and HRTEM study
+Shugurov K. U., Mozharov A. M., Fedorov V. V., Bolshakov A. D., Sapunov G. A., Mukhin I. S.
+Book of abstracts 2018, 283—284
+
+5rd International School and Conference on Optoelectronics, Photonics, Engineering and Nanostructures “Saint Petersburg OPEN 2018”
+Saint Petersburg, Russia
+Saint Petersburg Academic University
+from 02.04.2018 to 05.04.2018
+THz Gunn diode based on n+ - n - n+ GaN nanowire
+Mozharov A. M., Bolshakov A. D., Komissarenko F. E., Vasiliev A. A., Fedorov V. V., Sapunov G. A., Cirlin G. E., Mukhin I. S.
+Book of abstracts 2018, 492—493
+
+## 2017
+
+International conference PhysicA.SPb/2017
+Saint Petersburg, Russia
+Ioffe Institute
+from 24.10.2017 to 26.10.2017
+Formation and crystal structure of Y-shaped GaN nanostructures on Si
+Sapunov G. A., Bolshakov A .D, Fedorov V. V., Mozharov A. M., Kirilenko D. A., Sitnikova A. A., Mukhin I. S.
+Conference Theses PhysicA.SPb/2017
+
+International conference PhysicA.SPb/2017
+Saint Petersburg, Russia
+Ioffe Institute
+from 24.10.2017 to 26.10.2017
+Influence of hydrogen plasma passivation on electrical and spectral characteristics of GaN nanowires/Si solar cells
+Shugurov K. Yu., Mozharov A. M., Sapunov G. A., Fedorov V. V., Bolshakov A. D., Mukhin I. S.
+Conference Theses PhysicA.SPb/2017
+
+4rd International School and Conference on Optoelectronics, Photonics, Engineering and Nanostructures “Saint Petersburg OPEN 2017”
+Saint Petersburg, Russia
+Saint Petersburg Academic University
+from 03.04.2017 to 06.04.2017
+Effect of the Ga seeding layer on the formation of GaN epitaxial nanostructures on silicon
+Fedorov V. V., Bolshakov A. D., Mozharov A. M., Sapunov G. A., Shtrom I. V., Kirilenko D. A., Sitnikova A. A., Mukhin I. S.
+Book of abstracts 2017, 143—144
+
+4rd International School and Conference on Optoelectronics, Photonics, Engineering and Nanostructures “Saint Petersburg OPEN 2017”
+Saint Petersburg, Russia
+Saint Petersburg Academic University
+from 03.04.2017 to 06.04.2017
+Modeling the semiconductor devices with negative differential resistance based on nitride nanowires
+Mozharov A. M., Komissarenko F. E., Bolshakov A. D., Fedorov V. V., Sapunov G. A., Cirlin G. E., Mukhin I. S.
+Book of abstracts 2017, 564—565
+
+## 2016
+
+3rd International School and Conference on Optoelectronics, Photonics, Engineering and Nanostructures “Saint Petersburg OPEN 2016”
+Saint Petersburg, Russia
+Saint Petersburg Academic University
+from 28.03.2016 to 30.03.2016
+Synthesis of GaN nanowires and nanotubes on Si substrates
+Sapunov G. A., Bolshakov A. D., Mozharov A. M., Cirlin G. E., Mukhin I. S.
+Book of abstracts 2016, 115—116
