@@ -1,0 +1,3 @@
+#+title: Bio
+
+In 2014 Dr. Georgiy Sapunov joined Laboratory of Renewable Energy Sources at Alferov University, St. Peterburg, Russia. His was focusing on Molecular Beam Epitaxy of III-V heterostuctures on silicon. In 2021 Dr. Sapunov defended his dissertation for the Candidate of Sciences degree (equivalent to PhD) in Physics and Mathematics (Physics of Condensed Matter) in Alferov University. Currently, he is a postdoctoral researcher at Bimberg Chinese-German Center for Green Photonics, Changchun Institute of Optics Fine Mechanics and Physics, Chinese Academy of Sciences, China. His research interests include high-speed, high-power and energy efficient Vertical-Cavity Surface-Emitting Lasers. He has published over 35 publications.
